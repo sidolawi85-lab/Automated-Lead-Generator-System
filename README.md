@@ -169,7 +169,7 @@ This enables **simple pipeline tracking and analytics**.
 ## Workflow Demo
 # 📺 Project Demo
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/GBNpelTpJos/maxresdefault.jpg)](https://youtu.be/GBNpelTpJos)
 
 *Click the image above to watch the Automated Lead Generation System in action.*
 
