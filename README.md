@@ -167,7 +167,7 @@ This enables **simple pipeline tracking and analytics**.
 # 🎬 System Demonstration
 
 ## Workflow Demo
-
+[![Watch the video](https://img.youtube.com/vi/GBNpelTpJos/maxresdefault.jpg)](https://youtu.be/GBNpelTpJos)
 [![Demo Video](./images/demo-thumbnail.png)](DEMO_VIDEO_LINK_HERE)
 
 **Demo Walkthrough Includes:**
