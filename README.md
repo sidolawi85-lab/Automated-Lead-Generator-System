@@ -76,7 +76,7 @@ The system uses **event-driven workflow automation** built with **n8n** to creat
 
 ## 🏗 Workflow Architecture
 
-![Architecture Diagram](./images/architecture.png)
+![Architecture Diagram](https://github.com/sidolawi85-lab/Automated-Lead-Generator-System/blob/23836e9a2970b183896da781d42b7d2eebdf40e7/Automated%20Lead%20Generation%20System/architecture/Automated%20Lead%20Generation.png)
 
 ### Step-by-Step Process
 
