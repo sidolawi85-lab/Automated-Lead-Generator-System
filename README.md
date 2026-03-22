@@ -74,17 +74,86 @@ $$
 
 ---
 
-### 📊 Projected Gains:
+##### 📊 Projected Gains (Translated to Revenue Impact)
 
-- 📈 **+25% Increase in Conversion Rate**  
-  Driven by **instant follow-up and personalized engagement**
+This system is not just an efficiency upgrade — it is a **direct revenue multiplier**.
 
-- ⏱️ **10+ Hours Saved per Week**  
-  Eliminating manual:
-  - Lead sorting  
-  - Data entry  
-  - Initial outreach  
+---
 
+### 📈 Conversion Rate Uplift → Revenue Gain
+
+**Baseline Assumption:**
+- Monthly Leads: **200**
+- Current Conversion Rate: **10%**
+- Average Deal Value: **$1,000**
+
+**Before Automation:**
+- 200 leads × 10% = **20 customers**
+- Revenue = **$20,000/month**
+
+---
+
+**After Implementation (+25% Conversion Lift):**
+- New Conversion Rate: **12.5%**
+- 200 leads × 12.5% = **25 customers**
+- Revenue = **$25,000/month**
+
+---
+
+### 💰 Net Gain:
+- **+5 additional customers/month**
+- **+$5,000/month revenue increase**
+- **+$60,000/year (pure upside from speed-to-lead)**
+
+---
+
+### ⏱️ Time Savings → Cost Reduction
+
+**Manual Work Eliminated:**
+- Lead sorting  
+- Data entry  
+- Initial outreach  
+
+**Time Saved:**
+- **10+ hours/week**
+- ≈ **40+ hours/month**
+
+---
+
+**If valued at a conservative $10/hour:**
+- Monthly savings = **$400**
+- Annual savings = **$4,800**
+
+---
+
+### 📊 Total Economic Impact
+
+| Category              | Monthly Impact | Annual Impact |
+|----------------------|---------------|---------------|
+| **Revenue Increase**  | **+$5,000**   | **+$60,000**  |
+| **Cost Savings**      | **+$400**     | **+$4,800**   |
+| **Total Impact**      | **+$5,400**   | **+$64,800**  |
+
+---
+
+### 🧠 Strategic Interpretation
+
+- The system **pays for itself almost immediately**
+- Gains compound with **higher lead volume**
+- Efficiency gains unlock **scaling without hiring**
+
+---
+
+### ⚡ Bottom Line
+
+This is not a “nice-to-have” automation.
+
+It is a **profit engine** that:
+- Converts more leads  
+- Responds instantly  
+- Reduces operational drag  
+
+➡️ **Faster pipeline velocity = higher cash flow**
 ---
 
 ### 💰 Business Impact:
