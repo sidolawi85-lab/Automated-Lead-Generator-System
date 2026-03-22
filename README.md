@@ -43,7 +43,7 @@ The result:
 
 ## 🏗️ Workflow Architecture
 
-![Alt](path)
+![Alt](https://github.com/sidolawi85-lab/Automated-Lead-Generator-System/blob/main/Automated%20Lead%20Generation%20System/architecture/Automated%20Lead%20Generation.png)
 
 ### High-Level Flow:
 1. **Lead Submission (Webhook Trigger)**
