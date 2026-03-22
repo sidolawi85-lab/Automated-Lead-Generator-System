@@ -149,7 +149,7 @@ This ensures:
 
 ## 🧭 Cost vs. Complexity Strategy Matrix
 
-![Alt](path)
+![Alt](https://github.com/sidolawi85-lab/Automated-Lead-Generator-System/blob/main/Automated%20Lead%20Generation%20System/Documents/Cost%20vs.%20complexity%20strategy%20matrix.png)
 
 |                    | **Low Cost**                          | **High Cost**                          |
 |--------------------|--------------------------------------|----------------------------------------|
