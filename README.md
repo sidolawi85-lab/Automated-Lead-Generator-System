@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 The Narrative (The Business "Why")
+## 🧠 The Business Problem
 
 Every business investing in lead generation faces a hidden but critical inefficiency: the **"Leaky Bucket" problem**.
 
