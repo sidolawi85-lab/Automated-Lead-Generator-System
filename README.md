@@ -100,7 +100,7 @@ $$
 
 ## 📊 The Output (Live CRM)
 
-![Alt](path)
+![Alt](https://github.com/sidolawi85-lab/Automated-Lead-Generator-System/blob/main/Automated%20Lead%20Generation%20System/Documents/New%20Leads%20Sheet.%20-%20Sheet1.pdf)
 
 The Google Sheets CRM acts as a **real-time operational dashboard**, featuring:
 
