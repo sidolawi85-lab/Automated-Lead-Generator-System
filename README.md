@@ -1,5 +1,5 @@
 # 🚀 Automated Lead Generation & Qualification Engine  
-[PLACEHOLDER: PROJECT_COVER_IMAGE]
+![Alt](path)
 
 ---
 
@@ -43,7 +43,7 @@ The result:
 
 ## 🏗️ Workflow Architecture
 
-[PLACEHOLDER: WORKFLOW_IMAGE]
+![Alt](path)
 
 ### High-Level Flow:
 1. **Lead Submission (Webhook Trigger)**
@@ -100,7 +100,7 @@ $$
 
 ## 📊 The Output (Live CRM)
 
-[PLACEHOLDER: OUTPUT_LEAD_SHEET_IMAGE]
+![Alt](path)
 
 The Google Sheets CRM acts as a **real-time operational dashboard**, featuring:
 
@@ -149,7 +149,7 @@ This ensures:
 
 ## 🧭 Cost vs. Complexity Strategy Matrix
 
-[PLACEHOLDER: STRATEGY_MATRIX_IMAGE]
+![Alt](path)
 
 |                    | **Low Cost**                          | **High Cost**                          |
 |--------------------|--------------------------------------|----------------------------------------|
