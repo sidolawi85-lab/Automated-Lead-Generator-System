@@ -1,5 +1,5 @@
 # 🚀 Automated Lead Generation & Qualification Engine  
-![Alt](path)
+![Alt](https://github.com/sidolawi85-lab/Automated-Lead-Generator-System/blob/main/Automated%20Lead%20Generation%20System/cover%20Image/Automated%20Lead%20generation.png)
 
 ---
 
